@@ -59,6 +59,7 @@
         android:layout_height="69dp"
         android:backgroundTint="#DE0000"
         android:text="Sortear Números"
+        android:textColor="@color/white"
         android:onClick="sortearNumeros"
         android:fontFamily="monospace"
         android:textSize="20sp"
