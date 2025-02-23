@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Arrays.sort(megaNum); //MANEIRA FÁCIL
 
-        BubbleSort(megaNum);
+        BubbleSort(megaNum); //Maneira inteligente
 
         for(int i = 0; i < megaNum.length; i++){
             if(megaNum[i] > 0 && megaNum[i] < 10){
